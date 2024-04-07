@@ -12,7 +12,7 @@
       "imageSrc": "projects/ecommerce.png",
       "description": "This project is an online shopping website for dresses and consists of different section for each member of the family.",
       "skills": ["React", "Express", "Node", "MongoDB"],
-      "demo": "https://www.example.com",
+      "demo": "https://drive.google.com/file/d/1u5-32nUHTJNhq0Z3jPSBSHVosXmYGzS7/view?usp=drive_link",
       "source": "https://github.com/Swathisri-02/Shopper"
     },
     {
@@ -20,7 +20,7 @@
       "imageSrc": "projects/HMRS.png",
       "description": "This is a python based project to predict the user's health condition and recommend medicine.",
       "skills": ["Python", "NLP", "Flask"],
-      "demo": "https://www.example.com",
+      "demo": "https://drive.google.com/file/d/1hWHJomevtse4TIUC_txJJnF1LZyuHToX/view?usp=drive_link",
       "source": "https://www.github.com"
     }
   ]
