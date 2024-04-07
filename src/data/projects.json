@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Edu Today",
+      "imageSrc": "projects/edutoday.png",
+      "description": "This is an E-Learning Website, which consists of videos on different topics and consists of various external links for further refernces",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://edu-today.netlify.app/",
+      "source": "https://github.com/Swathisri-02/EduToday"
+    },
+    {
+      "title": "Shopper",
+      "imageSrc": "projects/ecommerce.png",
+      "description": "This project is an online shopping website for dresses and consists of different section for each member of the family.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Swathisri-02/Shopper"
+    },
+    {
+      "title": "Healthcare System",
+      "imageSrc": "projects/HMRS.png",
+      "description": "This is a python based project to predict the user's health condition and recommend medicine.",
+      "skills": ["Python", "NLP", "Flask"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
